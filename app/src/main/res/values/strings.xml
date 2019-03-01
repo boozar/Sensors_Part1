@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sensors_1</string>
+    <string name="button">Record</string>
+    <string name="sensors_list">Sensors values</string>
+</resources>
